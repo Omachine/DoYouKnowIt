@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "430616848109",
+    "project_id": "doyouknowit-8edce",
+    "storage_bucket": "doyouknowit-8edce.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430616848109:android:9d7ad4a8ebbd7a6dd68ee4",
+        "android_client_info": {
+          "package_name": "com.example.doyouknowit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDejNckmF6w15xqiouPEAywlKyAogIU15A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

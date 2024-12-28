@@ -1,0 +1,112 @@
+[
+  {
+    "text": "Who led the French Revolution?",
+    "choices": ["Maximilien Robespierre", "Napoleon Bonaparte", "Ludwig van Beethoven", "Simón Bolívar"],
+    "correctAnswer": "Maximilien Robespierre"
+  },
+  {
+    "text": "Which world war began in 1914?",
+    "choices": ["World War I", "World War II", "The Cold War", "The Hundred Years' War"],
+    "correctAnswer": "World War I"
+  },
+  {
+    "text": "In which year did Christopher Columbus reach the Americas?",
+    "choices": ["1492", "1500", "1498", "1478"],
+    "correctAnswer": "1492"
+  },
+  {
+    "text": "Which military leader became the Emperor of France in 1804?",
+    "choices": ["Napoleon Bonaparte", "Louis XIV", "Charlemagne", "Henry IV"],
+    "correctAnswer": "Napoleon Bonaparte"
+  },
+  {
+    "text": "What was the main objective of the Cold War?",
+    "choices": ["Ideological conflict between capitalism and communism", "Territorial conquest in Europe", "Destruction of nuclear weapons", "Independence of the United States"],
+    "correctAnswer": "Ideological conflict between capitalism and communism"
+  },
+  {
+    "text": "Who painted the Mona Lisa?",
+    "choices": ["Leonardo da Vinci", "Michelangelo", "Raphael", "Vincent van Gogh"],
+    "correctAnswer": "Leonardo da Vinci"
+  },
+  {
+    "text": "In which country did the Russian Revolution of 1917 occur?",
+    "choices": ["Russia", "Germany", "France", "China"],
+    "correctAnswer": "Russia"
+  },
+  {
+    "text": "Which empire built the Great Wall of China?",
+    "choices": ["Qin Dynasty", "Ming Dynasty", "Tang Dynasty", "Yuan Dynasty"],
+    "correctAnswer": "Qin Dynasty"
+  },
+  {
+    "text": "Who was the first President of the United States?",
+    "choices": ["George Washington", "Thomas Jefferson", "Abraham Lincoln", "John Adams"],
+    "correctAnswer": "George Washington"
+  },
+  {
+    "text": "Which document was signed in 1215 in England, limiting the power of the king?",
+    "choices": ["Magna Carta", "Declaration of Independence", "Treaty of Tordesillas", "English Constitution"],
+    "correctAnswer": "Magna Carta"
+  },
+  {
+    "text": "What event marked the beginning of World War II?",
+    "choices": ["Germany's invasion of Poland", "The attack on Pearl Harbor", "The Russian Revolution", "The Treaty of Versailles"],
+    "correctAnswer": "Germany's invasion of Poland"
+  },
+  {
+    "text": "Which pharaoh built the Great Pyramid of Giza?",
+    "choices": ["Khufu", "Tutankhamun", "Cleopatra", "Ramses II"],
+    "correctAnswer": "Khufu"
+  },
+  {
+    "text": "Which ancient civilization is known for developing democracy?",
+    "choices": ["Greece", "Rome", "Egypt", "Babylon"],
+    "correctAnswer": "Greece"
+  },
+  {
+    "text": "Who was the leader of India's independence movement in 1947?",
+    "choices": ["Mahatma Gandhi", "Jawaharlal Nehru", "Subhas Chandra Bose", "Indira Gandhi"],
+    "correctAnswer": "Mahatma Gandhi"
+  },
+  {
+    "text": "What major event took place in 1066 in England?",
+    "choices": ["The Battle of Hastings", "The signing of the Magna Carta", "The beginning of the Norman Conquest", "The English Civil War"],
+    "correctAnswer": "The Battle of Hastings"
+  },
+  {
+    "text": "Which empire was ruled by Julius Caesar, Augustus, and Nero?",
+    "choices": ["Roman Empire", "Ottoman Empire", "Mongol Empire", "Byzantine Empire"],
+    "correctAnswer": "Roman Empire"
+  },
+  {
+    "text": "Who was the first emperor of China?",
+    "choices": ["Qin Shi Huang", "Emperor Wu of Han", "Emperor Taizong of Tang", "Liu Bang"],
+    "correctAnswer": "Qin Shi Huang"
+  },
+  {
+    "text": "What was the main cause of the American Civil War?",
+    "choices": ["Slavery", "Taxation without representation", "Territorial expansion", "The Boston Tea Party"],
+    "correctAnswer": "Slavery"
+  },
+  {
+    "text": "Which country was the first to grant women the right to vote?",
+    "choices": ["New Zealand", "United States", "United Kingdom", "Australia"],
+    "correctAnswer": "New Zealand"
+  },
+  {
+    "text": "In what year did the Berlin Wall fall?",
+    "choices": ["1989", "1991", "1975", "1963"],
+    "correctAnswer": "1989"
+  },
+  {
+    "text": "Who was the famous queen of ancient Egypt?",
+    "choices": ["Cleopatra", "Nefertiti", "Hatshepsut", "Amunet"],
+    "correctAnswer": "Cleopatra"
+  },
+  {
+    "text": "Which war was fought between the North and South regions of the United States?",
+    "choices": ["American Civil War", "World War I", "Revolutionary War", "Spanish-American War"],
+    "correctAnswer": "American Civil War"
+  }
+]

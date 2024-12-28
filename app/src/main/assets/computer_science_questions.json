@@ -1,0 +1,152 @@
+[
+  {
+    "text": "Who is considered the father of computer science?",
+    "choices": ["Alan Turing", "Bill Gates", "Steve Jobs", "Ada Lovelace"],
+    "correctAnswer": "Alan Turing"
+  },
+  {
+    "text": "What does 'CPU' stand for?",
+    "choices": ["Central Processing Unit", "Central Programming Unit", "Core Processing Unit", "Computer Processing Unit"],
+    "correctAnswer": "Central Processing Unit"
+  },
+  {
+    "text": "Which company created the programming language Python?",
+    "choices": ["Guido van Rossum (as an individual)", "Microsoft", "IBM", "Oracle"],
+    "correctAnswer": "Guido van Rossum (as an individual)"
+  },
+  {
+    "text": "What does HTML stand for?",
+    "choices": ["Hypertext Markup Language", "High Text Machine Language", "Hyperloop Text Method Language", "Hyperlink Text Managing Language"],
+    "correctAnswer": "Hypertext Markup Language"
+  },
+  {
+    "text": "What is the main function of RAM in a computer?",
+    "choices": ["To temporarily store data for quick access", "To permanently store data", "To process graphical data", "To connect to the internet"],
+    "correctAnswer": "To temporarily store data for quick access"
+  },
+  {
+    "text": "Which of these is not a programming language?",
+    "choices": ["HTML", "Python", "Java", "C++"],
+    "correctAnswer": "HTML"
+  },
+  {
+    "text": "Who founded Microsoft?",
+    "choices": ["Bill Gates and Paul Allen", "Steve Jobs and Steve Wozniak", "Larry Page and Sergey Brin", "Mark Zuckerberg and Eduardo Saverin"],
+    "correctAnswer": "Bill Gates and Paul Allen"
+  },
+  {
+    "text": "What does 'HTTP' stand for?",
+    "choices": ["Hypertext Transfer Protocol", "Hyperlink Transmission Protocol", "Hypertext Transfer Path", "Hyperlink Text Processing"],
+    "correctAnswer": "Hypertext Transfer Protocol"
+  },
+  {
+    "text": "Which of these is a type of database model?",
+    "choices": ["Relational", "Logical", "Procedural", "Iterative"],
+    "correctAnswer": "Relational"
+  },
+  {
+    "text": "What is the binary representation of the decimal number 10?",
+    "choices": ["1010", "1001", "1100", "1110"],
+    "correctAnswer": "1010"
+  },
+  {
+    "text": "What is the primary purpose of an operating system?",
+    "choices": ["To manage hardware and software resources", "To process user data", "To serve as antivirus software", "To run web browsers"],
+    "correctAnswer": "To manage hardware and software resources"
+  },
+  {
+    "text": "Which of the following is an example of open-source software?",
+    "choices": ["Linux", "Windows", "macOS", "Adobe Photoshop"],
+    "correctAnswer": "Linux"
+  },
+  {
+    "text": "What is the time complexity of binary search?",
+    "choices": ["O(log n)", "O(n)", "O(n^2)", "O(1)"],
+    "correctAnswer": "O(log n)"
+  },
+  {
+    "text": "Which programming language is primarily used for web development?",
+    "choices": ["JavaScript", "C++", "Python", "Swift"],
+    "correctAnswer": "JavaScript"
+  },
+  {
+    "text": "What does SQL stand for?",
+    "choices": ["Structured Query Language", "System Query Language", "Sequential Query Language", "Simple Query Language"],
+    "correctAnswer": "Structured Query Language"
+  },
+  {
+    "text": "What is the smallest unit of data in a computer?",
+    "choices": ["Bit", "Byte", "Kilobyte", "Megabyte"],
+    "correctAnswer": "Bit"
+  },
+  {
+    "text": "What is the full form of AI?",
+    "choices": ["Artificial Intelligence", "Advanced Interface", "Algorithmic Integration", "Automated Interaction"],
+    "correctAnswer": "Artificial Intelligence"
+  },
+  {
+    "text": "What does 'DNS' stand for in networking?",
+    "choices": ["Domain Name System", "Data Network Service", "Digital Node Server", "Domain Networking Service"],
+    "correctAnswer": "Domain Name System"
+  },
+  {
+    "text": "Which of the following is an example of a high-level programming language?",
+    "choices": ["Python", "Assembly", "Machine Code", "Binary"],
+    "correctAnswer": "Python"
+  },
+  {
+    "text": "What is the purpose of a compiler?",
+    "choices": ["To translate source code into machine code", "To execute programs", "To detect viruses", "To manage system resources"],
+    "correctAnswer": "To translate source code into machine code"
+  },
+  {
+    "text": "Which of these is a valid IP address?",
+    "choices": ["192.168.1.1", "256.256.256.256", "300.400.500.600", "abcd::1234"],
+    "correctAnswer": "192.168.1.1"
+  },
+  {
+    "text": "What does 'URL' stand for?",
+    "choices": ["Uniform Resource Locator", "Universal Resource Language", "Unified Routing Link", "User Response Link"],
+    "correctAnswer": "Uniform Resource Locator"
+  },
+  {
+    "text": "What is the function of a firewall in computer networks?",
+    "choices": ["To protect against unauthorized access", "To increase download speed", "To detect and remove viruses", "To compress data"],
+    "correctAnswer": "To protect against unauthorized access"
+  },
+  {
+    "text": "What does 'GUI' stand for?",
+    "choices": ["Graphical User Interface", "General User Interface", "Global User Integration", "Graphical Utility Interface"],
+    "correctAnswer": "Graphical User Interface"
+  },
+  {
+    "text": "Which company developed the Windows operating system?",
+    "choices": ["Microsoft", "Apple", "Google", "IBM"],
+    "correctAnswer": "Microsoft"
+  },
+  {
+    "text": "What is the hexadecimal equivalent of the decimal number 15?",
+    "choices": ["F", "E", "10", "D"],
+    "correctAnswer": "F"
+  },
+  {
+    "text": "Which of these sorting algorithms has the best average-case time complexity?",
+    "choices": ["Merge Sort", "Bubble Sort", "Selection Sort", "Insertion Sort"],
+    "correctAnswer": "Merge Sort"
+  },
+  {
+    "text": "Which device is used as the brain of the computer?",
+    "choices": ["CPU", "RAM", "Hard Drive", "GPU"],
+    "correctAnswer": "CPU"
+  },
+  {
+    "text": "What does 'IP' stand for in IP address?",
+    "choices": ["Internet Protocol", "Internet Port", "Interface Protocol", "Interface Port"],
+    "correctAnswer": "Internet Protocol"
+  },
+  {
+    "text": "Which data structure uses LIFO (Last In, First Out) ordering?",
+    "choices": ["Stack", "Queue", "Array", "Linked List"],
+    "correctAnswer": "Stack"
+  }
+]

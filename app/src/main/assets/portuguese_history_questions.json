@@ -1,0 +1,102 @@
+[
+  {
+    "text": "Quem foi o primeiro rei de Portugal?",
+    "choices": ["D. Afonso Henriques", "D. João I", "D. Pedro II", "D. Manuel I"],
+    "correctAnswer": "D. Afonso Henriques"
+  },
+  {
+    "text": "Em que ano ocorreu a independência de Portugal do Reino de Leão?",
+    "choices": ["1143", "1139", "1211", "1179"],
+    "correctAnswer": "1143"
+  },
+  {
+    "text": "Qual foi o principal objetivo das Grandes Navegações portuguesas no século XV?",
+    "choices": ["Encontrar uma rota marítima para as Índias", "Conquistar a América", "Estabelecer relações diplomáticas com a China", "Explorar a Antártida"],
+    "correctAnswer": "Encontrar uma rota marítima para as Índias"
+  },
+  {
+    "text": "Quem comandou a expedição que chegou ao Brasil em 1500?",
+    "choices": ["Pedro Álvares Cabral", "Vasco da Gama", "Bartolomeu Dias", "Fernão de Magalhães"],
+    "correctAnswer": "Pedro Álvares Cabral"
+  },
+  {
+    "text": "Qual tratado dividiu as terras do Novo Mundo entre Portugal e Espanha?",
+    "choices": ["Tratado de Tordesilhas", "Tratado de Madrid", "Tratado de Alcanizes", "Tratado de Utrecht"],
+    "correctAnswer": "Tratado de Tordesilhas"
+  },
+  {
+    "text": "Qual cidade foi a capital de Portugal durante a invasão napoleônica?",
+    "choices": ["Rio de Janeiro", "Lisboa", "Porto", "Coimbra"],
+    "correctAnswer": "Rio de Janeiro"
+  },
+  {
+    "text": "Quem foi o responsável pela descoberta do caminho marítimo para a Índia?",
+    "choices": ["Vasco da Gama", "Pedro Álvares Cabral", "Cristóvão Colombo", "Fernão Mendes Pinto"],
+    "correctAnswer": "Vasco da Gama"
+  },
+  {
+    "text": "Em que ano ocorreu a Revolução dos Cravos, marcando o fim da ditadura em Portugal?",
+    "choices": ["1974", "1968", "1982", "1970"],
+    "correctAnswer": "1974"
+  },
+  {
+    "text": "Qual era o nome do regime ditatorial que governou Portugal até 1974?",
+    "choices": ["Estado Novo", "Primeira República", "Monarquia Constitucional", "Inquisição"],
+    "correctAnswer": "Estado Novo"
+  },
+  {
+    "text": "Quem foi o líder da Revolução dos Cravos?",
+    "choices": ["Capitão Salgueiro Maia", "António de Oliveira Salazar", "D. Manuel II", "Marquês de Pombal"],
+    "correctAnswer": "Capitão Salgueiro Maia"
+  },
+  {
+    "text": "Qual foi o principal objetivo das reformas do Marquês de Pombal no século XVIII?",
+    "choices": ["Modernizar a economia e centralizar o poder", "Expandir o território português na América", "Abolir a escravidão", "Fundar a Universidade de Coimbra"],
+    "correctAnswer": "Modernizar a economia e centralizar o poder"
+  },
+  {
+    "text": "Qual importante conquista marcou o final da Reconquista em Portugal?",
+    "choices": ["A tomada de Lisboa", "A conquista de Faro", "A batalha de Aljubarrota", "A conquista de Ceuta"],
+    "correctAnswer": "A tomada de Lisboa"
+  },
+  {
+    "text": "Quem foi o último rei de Portugal antes da proclamação da República em 1910?",
+    "choices": ["D. Manuel II", "D. Carlos I", "D. Pedro V", "D. Luís I"],
+    "correctAnswer": "D. Manuel II"
+  },
+  {
+    "text": "Em que ano foi proclamada a República Portuguesa?",
+    "choices": ["1910", "1908", "1926", "1889"],
+    "correctAnswer": "1910"
+  },
+  {
+    "text": "Qual foi o marco da expansão portuguesa na África em 1415?",
+    "choices": ["A conquista de Ceuta", "A descoberta de Cabo Verde", "A chegada ao Cabo da Boa Esperança", "O Tratado de Alcáçovas"],
+    "correctAnswer": "A conquista de Ceuta"
+  },
+  {
+    "text": "Quem foi o responsável pela abolição da escravatura em Portugal em 1761?",
+    "choices": ["Marquês de Pombal", "D. João VI", "D. Maria II", "D. Afonso V"],
+    "correctAnswer": "Marquês de Pombal"
+  },
+  {
+    "text": "O que representou a Batalha de Aljubarrota em 1385?",
+    "choices": ["A consolidação da independência de Portugal", "O início da dinastia filipina", "A assinatura do Tratado de Windsor", "A conquista do Brasil"],
+    "correctAnswer": "A consolidação da independência de Portugal"
+  },
+  {
+    "text": "Qual navegante português foi o primeiro a chegar ao Brasil em 1500?",
+    "choices": ["Pedro Álvares Cabral", "Vasco da Gama", "Bartolomeu Dias", "Nuno Gonçalves"],
+    "correctAnswer": "Pedro Álvares Cabral"
+  },
+  {
+    "text": "Quem foi a primeira mulher a governar Portugal como rainha reinante?",
+    "choices": ["D. Maria I", "D. Catarina de Bragança", "D. Isabel de Aragão", "D. Beatriz"],
+    "correctAnswer": "D. Maria I"
+  },
+  {
+    "text": "Qual país se uniu a Portugal durante a União Ibérica?",
+    "choices": ["Espanha", "França", "Inglaterra", "Itália"],
+    "correctAnswer": "Espanha"
+  }
+]

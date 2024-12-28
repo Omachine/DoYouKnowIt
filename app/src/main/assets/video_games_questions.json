@@ -1,0 +1,152 @@
+[
+  {
+    "text": "What was the first commercially successful video game?",
+    "choices": ["Pong", "Space Invaders", "Pac-Man", "Donkey Kong"],
+    "correctAnswer": "Pong"
+  },
+  {
+    "text": "Which company developed the game 'The Legend of Zelda'?",
+    "choices": ["Nintendo", "Sega", "Sony", "Capcom"],
+    "correctAnswer": "Nintendo"
+  },
+  {
+    "text": "What is the name of the main character in the 'Halo' series?",
+    "choices": ["Master Chief", "Commander Shepard", "Marcus Fenix", "Samus Aran"],
+    "correctAnswer": "Master Chief"
+  },
+  {
+    "text": "In which game would you find a character named Lara Croft?",
+    "choices": ["Tomb Raider", "Uncharted", "Prince of Persia", "Assassin's Creed"],
+    "correctAnswer": "Tomb Raider"
+  },
+  {
+    "text": "What is the highest-selling video game of all time?",
+    "choices": ["Minecraft", "Grand Theft Auto V", "Tetris", "Wii Sports"],
+    "correctAnswer": "Minecraft"
+  },
+  {
+    "text": "Which game features a 'Battle Royale' mode and became extremely popular in 2017?",
+    "choices": ["Fortnite", "PlayerUnknown's Battlegrounds", "Call of Duty: Warzone", "Apex Legends"],
+    "correctAnswer": "Fortnite"
+  },
+  {
+    "text": "What is the name of the princess Mario is always trying to rescue?",
+    "choices": ["Princess Peach", "Princess Daisy", "Princess Zelda", "Rosalina"],
+    "correctAnswer": "Princess Peach"
+  },
+  {
+    "text": "Which character is known as the 'Blue Blur'?",
+    "choices": ["Sonic the Hedgehog", "Mega Man", "Crash Bandicoot", "Fox McCloud"],
+    "correctAnswer": "Sonic the Hedgehog"
+  },
+  {
+    "text": "What year was the original 'PlayStation' released?",
+    "choices": ["1994", "1996", "1998", "2000"],
+    "correctAnswer": "1994"
+  },
+  {
+    "text": "Which video game series features the fictional region of Hyrule?",
+    "choices": ["The Legend of Zelda", "Final Fantasy", "Dragon Quest", "Elder Scrolls"],
+    "correctAnswer": "The Legend of Zelda"
+  },
+  {
+    "text": "What does the acronym 'FPS' stand for in gaming?",
+    "choices": ["First-Person Shooter", "Frames Per Second", "Fast Paced Strategy", "Fantasy Player Simulation"],
+    "correctAnswer": "First-Person Shooter"
+  },
+  {
+    "text": "What is the name of the main character in 'The Witcher' series?",
+    "choices": ["Geralt of Rivia", "Ezio Auditore", "Aloy", "Kratos"],
+    "correctAnswer": "Geralt of Rivia"
+  },
+  {
+    "text": "Which game developer is known for creating the 'Elder Scrolls' and 'Fallout' series?",
+    "choices": ["Bethesda", "BioWare", "Rockstar Games", "Ubisoft"],
+    "correctAnswer": "Bethesda"
+  },
+  {
+    "text": "What is the name of the antagonist in the 'Portal' series?",
+    "choices": ["GLaDOS", "Wheatley", "Chell", "Dr. Robotnik"],
+    "correctAnswer": "GLaDOS"
+  },
+  {
+    "text": "Which game popularized the term 'Easter Egg' in gaming?",
+    "choices": ["Adventure", "Pong", "Pac-Man", "Super Mario Bros."],
+    "correctAnswer": "Adventure"
+  },
+  {
+    "text": "What color is the ghost 'Blinky' in 'Pac-Man'?",
+    "choices": ["Red", "Blue", "Pink", "Orange"],
+    "correctAnswer": "Red"
+  },
+  {
+    "text": "Which game franchise features a fictional pharmaceutical company called Umbrella Corporation?",
+    "choices": ["Resident Evil", "Silent Hill", "Dead Space", "The Last of Us"],
+    "correctAnswer": "Resident Evil"
+  },
+  {
+    "text": "What is the name of the blocky protagonist in 'Minecraft'?",
+    "choices": ["Steve", "Alex", "Herobrine", "Notch"],
+    "correctAnswer": "Steve"
+  },
+  {
+    "text": "Which game series features the city of Los Santos?",
+    "choices": ["Grand Theft Auto", "Saints Row", "Mafia", "Watch Dogs"],
+    "correctAnswer": "Grand Theft Auto"
+  },
+  {
+    "text": "What is the name of the orange marsupial in 'Crash Bandicoot'?",
+    "choices": ["Crash", "Spyro", "Jak", "Daxter"],
+    "correctAnswer": "Crash"
+  },
+  {
+    "text": "Which game features the characters Solid Snake and Big Boss?",
+    "choices": ["Metal Gear Solid", "Splinter Cell", "Hitman", "Rainbow Six"],
+    "correctAnswer": "Metal Gear Solid"
+  },
+  {
+    "text": "What is the name of the first video game character to have a balloon in the Macy's Thanksgiving Day Parade?",
+    "choices": ["Sonic the Hedgehog", "Mario", "Pikachu", "Pac-Man"],
+    "correctAnswer": "Sonic the Hedgehog"
+  },
+  {
+    "text": "In which game would you explore the wasteland after a nuclear apocalypse?",
+    "choices": ["Fallout", "The Last of Us", "Metro", "S.T.A.L.K.E.R."],
+    "correctAnswer": "Fallout"
+  },
+  {
+    "text": "Which game is famous for the phrase 'Do a barrel roll'?",
+    "choices": ["Star Fox 64", "F-Zero", "Mario Kart", "Pilotwings"],
+    "correctAnswer": "Star Fox 64"
+  },
+  {
+    "text": "Which game features the character Kratos, the God of War?",
+    "choices": ["God of War", "Darksiders", "Devil May Cry", "Shadow of the Colossus"],
+    "correctAnswer": "God of War"
+  },
+  {
+    "text": "What is the name of the pink puffball character in Nintendo games?",
+    "choices": ["Kirby", "Jigglypuff", "Yoshi", "Toad"],
+    "correctAnswer": "Kirby"
+  },
+  {
+    "text": "Which series features a vault boy mascot?",
+    "choices": ["Fallout", "Borderlands", "Metro", "Dishonored"],
+    "correctAnswer": "Fallout"
+  },
+  {
+    "text": "What game introduced the Konami Code?",
+    "choices": ["Gradius", "Contra", "Castlevania", "Metal Gear"],
+    "correctAnswer": "Gradius"
+  },
+  {
+    "text": "What is the name of the mushroom enemy in 'Super Mario Bros.'?",
+    "choices": ["Goomba", "Koopa Troopa", "Shy Guy", "Piranha Plant"],
+    "correctAnswer": "Goomba"
+  },
+  {
+    "text": "What is the primary objective in the game 'Among Us' for crewmates?",
+    "choices": ["Complete tasks and identify impostors", "Survive enemy attacks", "Capture the flag", "Defeat the impostors in combat"],
+    "correctAnswer": "Complete tasks and identify impostors"
+  }
+]
