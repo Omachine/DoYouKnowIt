@@ -37,7 +37,9 @@ O projeto segue a arquitetura MVVM (Model-View-ViewModel) e está organizado da 
 
 ## Desenhos, Esquemas e Protótipos da Aplicação
 
-*Esta seção deve incluir desenhos, esquemas e protótipos da aplicação. Adicione imagens ou links para os protótipos aqui.*
+![ViewsPlan](https://github.com/user-attachments/assets/afabc971-48a9-4d85-9827-5a80d547baa1)
+![DataManagement](https://github.com/user-attachments/assets/b5517a0e-9514-4470-8c0b-27c462a69fd9)
+
 
 ## Modelo de Dados
 
